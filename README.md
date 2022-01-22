@@ -1,1 +1,1 @@
-# paradoxdevlab.github.io
+# paradoxdevlab.org
